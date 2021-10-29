@@ -52,7 +52,7 @@
           <li>MERN stack</li>
     </ul>
     </div>
-  <div align="right">API interaction
+  <div align="center">API interaction
     <ul>
     <li>API</li>
     <li>AJAX</li>
@@ -61,7 +61,7 @@
     </div>
     <br />
     
-  <div align="right">Deployments/Command-line
+  <div align="center">Deployments/Command-line
     <ul>
     <li>Git</li>
     <li>Heroku</li>
