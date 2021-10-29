@@ -24,7 +24,17 @@
 <p>
 <h4 align="center"><b>Skills</h4>
   <div class="grid-container">
-  <div class="grid-item">Browser based technologies</div>
+  <div class="grid-item">Browser based technologies
+    <ul>
+      <li>HTML</li>
+        <li>CSS</li>
+          <li>jQueary</li>
+            <li>JavaScript</li>
+              <li>React</li>
+                <li>Handlebars</li>
+      <li>Local and Session storage</li>
+    </ul>
+    </div>
   <div class="grid-item">Databases</div>
   <div class="grid-item">Server side development</div>
   <div class="grid-item">API interaction</div>
