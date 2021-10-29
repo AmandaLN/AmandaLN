@@ -12,17 +12,23 @@
 <p>
 <h2 align="center"><b>About Me</h2>
   <br />
-  I am a Full Stack Developer with 1 year academic experience and held a 4.0 GPA. I love meeting new people and collaborating 
+  I am a Full Stack Developer with 1 year academic experience and held a 4.0 GPA. I love meeting new people and collaborating.
 </p>
 
 <br />
 
-<p>
+<!--<p>
 <h3 align="center"><b>Favorite Porjects</h3>
 </p>
-
+-->
 <p>
 <h4 align="center"><b>Skills</h4>
+  <div class="grid-container">
+  <div class="grid-item">Browser based technologies</div>
+  <div class="grid-item">Databases</div>
+  <div class="grid-item">Server side development</div>
+  <div class="grid-item">API interaction</div>
+  <div class="grid-item">Deployments/Command-line</div>
 </p>
 
 <!--
