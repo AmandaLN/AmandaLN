@@ -1,15 +1,5 @@
 <html>
   <head>
-    <style>
-
-.grid-item {
-  background-color: rgba(176,176,176, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-}
-</style>
 <p>
   <h1 align="center"><b>Hi, I'm Amanda!</h1>
 </p>
@@ -63,13 +53,19 @@
     </ul>
     </div>
   <div class="grid-item">API interaction
+    <ul>
     <li>API</li>
     <li>AJAX</li>
     <li>JSON</li>
+    </ul>
     </div>
+    <br />
+    
   <div class="grid-item">Deployments/Command-line
+    <ul>
     <li>Git</li>
     <li>Heroku</li>
+    </ul>
     </div>
 </p>
   </body>
