@@ -25,8 +25,8 @@
 
 <p>
 <h4 align="center"><b>Skills</h4>
-  <div class="grid-container">
-  <div class="grid-item">Browser based technologies
+  
+  <div align="left">Browser based technologies
     <ul>
       <li>HTML</li>
         <li>CSS</li>
@@ -37,13 +37,13 @@
       <li>Local and Session storage</li>
     </ul>
     </div>
-  <div class="grid-item">Databases
+  <div align="left">Databases
     <ul>
       <li>MYSQL</li>
       <li>MongoDB</li>
     </ul>
     </div>
-  <div class="grid-item">Server side development
+  <div align="left">Server side development
         <ul>
       <li>Node.js</li>
       <li>Express</li>
@@ -52,7 +52,7 @@
           <li>MERN stack</li>
     </ul>
     </div>
-  <div class="grid-item">API interaction
+  <div align="right">API interaction
     <ul>
     <li>API</li>
     <li>AJAX</li>
@@ -61,7 +61,7 @@
     </div>
     <br />
     
-  <div class="grid-item">Deployments/Command-line
+  <div align="right">Deployments/Command-line
     <ul>
     <li>Git</li>
     <li>Heroku</li>
