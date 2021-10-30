@@ -2,19 +2,10 @@
   <head>
     <style>
       
-.grid-container {
+.wrapper {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 200px 200px 200px;
   background-color: darkgrey;
-  padding: 10px;
-}
-
-.grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
 }
     </style>
   </head>
@@ -44,8 +35,8 @@
 
 <p>
 <h4 align="center"><b>Skills</h4>
-  <div class="grid-container">
-  <div class="grid-item">Browser based technologies
+  <div class="wrapper">
+  <div>Browser based technologies
     <ul>
       <li>HTML</li>
         <li>CSS</li>
@@ -56,13 +47,13 @@
       <li>Local and Session storage</li>
     </ul>
     </div>
-  <div class="grid-item">Databases
+  <div>Databases
     <ul>
       <li>MYSQL</li>
       <li>MongoDB</li>
     </ul>
     </div>
-  <div class="grid-item">Server side development
+  <div>Server side development
         <ul>
       <li>Node.js</li>
       <li>Express</li>
@@ -71,7 +62,7 @@
           <li>MERN stack</li>
     </ul>
     </div>
-  <div class="grid-item">API interaction
+  <div>API interaction
     <ul>
     <li>API</li>
     <li>AJAX</li>
@@ -80,7 +71,7 @@
     </div>
     <br />
     
-  <div class="grid-item">Deployments/Command-line
+  <div>Deployments/Command-line
     <ul>
     <li>Git</li>
     <li>Heroku</li>
