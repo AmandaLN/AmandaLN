@@ -27,7 +27,7 @@
 </p>
 
 <p>
-<h4 style="background-color:gray"; align="center"><b>Skills</h4>
+<h4 style="background-color:Gray", "border:2px solid White;"; align="center"><b>Skills</h4>
   <div class=".wrapper">
   <div>Browser based technologies
     <ul>
