@@ -23,7 +23,7 @@
 
 <p>
 <h3 align="center"><b>Favorite Porjects</h3>
-🔭 I’m currently working on a resume builder and my React portfolio.
+🔭 I’m currently working on a resume builder and my React portfolio. Some of my favorite projects are pinned in the repo section.
 </p>
 
 <h3 align="center"><b>Skills</h3>
