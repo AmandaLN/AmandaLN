@@ -52,7 +52,7 @@
           <li>MERN stack</li>
     </ul>
     </div>
-  <div align="center">API interaction
+  <div align="left">API interaction
     <ul>
     <li>API</li>
     <li>AJAX</li>
@@ -61,7 +61,7 @@
     </div>
     <br />
     
-  <div align="center">Deployments/Command-line
+  <div align="left">Deployments/Command-line
     <ul>
     <li>Git</li>
     <li>Heroku</li>
@@ -70,16 +70,4 @@
 </p>
   </body>
   </html>
-<!--
-**AmandaLN/AmandaLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a resume builder and my React portfolio.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
