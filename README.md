@@ -41,7 +41,7 @@
 
 <p>
 <h4 align="center"><b>Skills</h4>
-  
+  <div class="grid-container">
   <div class="grid-item">Browser based technologies
     <ul>
       <li>HTML</li>
@@ -83,6 +83,7 @@
     <li>Heroku</li>
     </ul>
     </div>
+  </div>
 </p>
   </body>
   </html>
