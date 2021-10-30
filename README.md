@@ -1,11 +1,6 @@
 <html>
   <head>
-      
-.wrapper {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  background-color: darkgrey;
-}
+
   </head>
   <body>
 <p>
@@ -32,7 +27,7 @@
 </p>
 
 <p>
-<h4 align="center"><b>Skills</h4>
+<h4 style="background-color:gray"; align="center"><b>Skills</h4>
   <div class=".wrapper">
   <div>Browser based technologies
     <ul>
