@@ -3,7 +3,7 @@
     <style>
       
 .grid-container {
-  display: inline-grid;
+  display: grid;
   grid-template-columns: auto auto auto;
   background-color: darkgrey;
   padding: 10px;
@@ -16,6 +16,9 @@
   font-size: 30px;
   text-align: center;
 }
+    </style>
+  </head>
+  <body>
 <p>
   <h1 align="center"><b>Hi, I'm Amanda!</h1>
 </p>
@@ -23,10 +26,8 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/amanda-nelson-8259721b8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn" /></a>&nbsp;
 </p>
-    </style>
-  </head>
+    
 <br />
-<body>
    
 <p>
 <h2 align="center"><b>About Me</h2>
