@@ -26,8 +26,8 @@
 🔭 I’m currently working on a resume builder and my React portfolio.
 </p>
 
-<p align="center">
 <h3 align="center"><b>Skills</h3>
+ <p align="center">
   <div>Browser based technologies
     <ul>
       <li>HTML</li>
