@@ -27,8 +27,7 @@
 </p>
 
 <p>
-<h4 style="background-color:Gray", "border:2px solid White;"; align="center"><b>Skills</h4>
-  <div class=".wrapper">
+<h3 align="center"><b>Skills</h3>
   <div>Browser based technologies
     <ul>
       <li>HTML</li>
@@ -63,8 +62,7 @@
     </ul>
     </div>
     <br />
-    
-  <div>Deployments/Command-line
+   <div>Deployments/Command-line
     <ul>
     <li>Git</li>
     <li>Heroku</li>
