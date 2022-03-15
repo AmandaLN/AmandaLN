@@ -16,7 +16,7 @@
 <p>
 <h2 align="center"><b>About Me</h2>
   <br />
-  I am a Full Stack Developer with academic experience and held a 4.0 GPA. Currently looking to break into the technology field. I love connecting with new people and collaborating, so come on over and say hi.
+  I am a Junior Full Stack Developer with academic experience and held a 4.0 GPA. Currently looking to break into the technology field. I love connecting with new people and collaborating, so come on over and say hi.
 </p>
 
 <br />
